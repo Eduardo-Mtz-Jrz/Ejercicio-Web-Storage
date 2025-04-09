@@ -18,5 +18,5 @@ Herramientas:
 
 Vista previa 
 
-[Index]()
-[Welcome]()
+[Index](https://raw.githubusercontent.com/Eduardo-Mtz-Jrz/Ejercicio-Web-Storage/refs/heads/develop/imag/index.webp)
+[Welcome](https://raw.githubusercontent.com/Eduardo-Mtz-Jrz/Ejercicio-Web-Storage/refs/heads/develop/imag/welcome.webp)
